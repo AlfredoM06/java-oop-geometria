@@ -27,7 +27,24 @@ public class Rettangolo {
         return secondoCalcolo;
     }
 
-    String disegna () {
 
+    void disegna(){
+        for (int i = 0; i < height; i ++){
+            String linea= "";
+            if((i == 0) || (i == height - 1 )){
+                for (int k = 0; k < base ; k ++) {
+                    linea += "0";
+                }
+                System.out.println(linea);
+            } else{
+                linea="0";
+                for (int k = 1; k < base-1 ; k ++) {
+                    linea += " ";
+                }
+                linea += "0";
+                System.out.println(linea);
+            }
+        }
     }
+
 }

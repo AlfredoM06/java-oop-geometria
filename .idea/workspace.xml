@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1959c93f-9cd4-4dba-8e6f-9c7c7f4e964f" name="Changes" comment="">
+    <list default="true" id="1959c93f-9cd4-4dba-8e6f-9c7c7f4e964f" name="Changes" comment="push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/geometria/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/geometria/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/geometria/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/geometria/Rettangolo.java" afterDir="false" />
@@ -24,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2Z8NHz2gZJC5nf0o65Qa2OYiIY3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,6 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Alfredo/Desktop/Esercizi coding/esercizi Java/java-festa-ferragnez",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -51,6 +52,15 @@
       <option name="presentableId" value="Default" />
       <updated>1701799665156</updated>
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <option name="closed" value="true" />
+      <created>1701935954141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701935954141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>

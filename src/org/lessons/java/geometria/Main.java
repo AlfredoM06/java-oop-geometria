@@ -19,6 +19,7 @@ public class Main {
         System.out.println(rectangle.toString());
         System.out.println("l'area del rettangolo è: " + rectangle.calcolaArea());
         System.out.println("il perimetro del rettangolo è: " + rectangle.calcolaPerimetro());
+        rectangle.disegna();
 
         keyScanner.close();
     }
